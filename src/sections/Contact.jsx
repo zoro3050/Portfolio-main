@@ -40,7 +40,7 @@ const Contact = () => {
 
       await emailjs.send(
         "service_r1qrgbg", // ✅ Your service ID
-        "template_xgo3c08", // ✅ Your template ID
+        "template_jfh6u69", // ✅ Your template ID
         templateParams,
         "HqOGnsgUjOyiScfiw" // ✅ Your public key
       );
